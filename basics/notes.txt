@@ -1,0 +1,24 @@
+shell es un programa, que esta corriendo sobre el kernet de linux y corre sobre una termina o consola.
+
+terminal termino general para una consola de text.
+
+shebang inicio de los script #!/bin/bash.
+
+bash hace referencia al senor que creo este sistema que se apedillaba bash.
+
+LTS es lo que conocemos como el gestionador de las versiones de los sistemas montados en linux.
+
+command es el lenguaje que necesitamos entender que trabajamos con shell.
+
+built in son las funciones que estan integradas en el kernel, son sis call, llaman al kernel y hacen ciertos procedimientos.
+
+simbolic link apuntar una direccion desde otra.
+
+wildcards es un multiproceso que se ejecuta en varios contextos del sistema o archivos.
+
+pipeline es la tuberia donde se gestionan comandos en orden de ejecucion.
+
+.. devolvernos de directorio con cd.
+
+<--------------------------------------------------------------------------------------------------------------------->
+
