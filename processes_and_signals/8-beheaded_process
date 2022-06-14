@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# nined comment
+pkill -SIGKILL -f "7-highlander"
