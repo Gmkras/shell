@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# the last ultimatum try
+# the last ultimatun try
 if [ "${1}" == "start" ]
 then
     ./manage_my_process &
